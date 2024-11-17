@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DmitriiKap and I'm learning Swift for iOS Development
+- 👋 Hi there
 
 <!---
 dmitriiKap/dmitriiKap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
